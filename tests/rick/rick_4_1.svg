@@ -1,0 +1,40 @@
+
+<svg
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 480 360" >
+  <defs>
+    <linearGradient id="_shadow">
+      <stop
+        style="stop-color:rgba(0, 0, 0, 0.0);stop-opacity:1;"
+        offset="0" />
+      <stop
+        style="stop-color:rgba(0, 0, 0, 0);stop-opacity:1;"
+        offset="1" />
+    </linearGradient>
+    <radialGradient
+      xlink:href="#_shadow"
+      id="shadow"
+      cx="0.5"
+      cy="0.5"
+      fx="0.5"
+      fy="0.5"
+      r="0.5" />
+  </defs>
+  <g>
+    <image
+      width="32"
+      height="32"
+      xlink:href="data:image/png;base64,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"
+      clip-path="inset(0% round 0px)"
+      x="224"
+      y="148" />
+    <rect
+      style="fill:url(#shadow)"
+      width="64"
+      height="16"
+      x="208"
+      y="172" />
+  </g>
+</svg>

@@ -1,8 +1,7 @@
 from pathlib import Path
 
+from create_svg import create_svg
 from PIL import Image
-
-from .create_svg import create_svg
 
 
 def image_splitter(

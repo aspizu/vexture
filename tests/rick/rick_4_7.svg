@@ -1,0 +1,40 @@
+
+<svg
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 480 360" >
+  <defs>
+    <linearGradient id="_shadow">
+      <stop
+        style="stop-color:rgba(0, 0, 0, 0.0);stop-opacity:1;"
+        offset="0" />
+      <stop
+        style="stop-color:rgba(0, 0, 0, 0);stop-opacity:1;"
+        offset="1" />
+    </linearGradient>
+    <radialGradient
+      xlink:href="#_shadow"
+      id="shadow"
+      cx="0.5"
+      cy="0.5"
+      fx="0.5"
+      fy="0.5"
+      r="0.5" />
+  </defs>
+  <g>
+    <image
+      width="32"
+      height="32"
+      xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABhGlDQ1BJQ0MgUHJvZmlsZQAAeJx9kT1Iw0AcxV9TpSItDnYQdQhYO9lFRRxrFYpQIdQKrTqYXPoFTRqSFhdHwbXg4Mdi1cHFWVcHV0EQ/ABxdXFSdJES/5cUWsR4cNyPd/ced+8AoVlhmtUTBzS9ZqaTCTGbWxUDrxAwghCiGJOZZcxJUgqe4+sePr7exXiW97k/R0jNWwzwicRxZpg14g3imc2awXmfOMxKskp8Tjxh0gWJH7muuPzGueiwwDPDZiY9TxwmFotdrHQxK5ka8TRxRNV0yheyLquctzhrlTpr35O/MJjXV5a5TnMUSSxiCRJEKKijjApqiNGqk2IhTfsJD/+w45fIpZCrDEaOBVShQXb84H/wu1urMDXpJgUTQO+LbX+MA4FdoNWw7e9j226dAP5n4Erv+KtNYPaT9EZHixwBA9vAxXVHU/aAyx1g6MmQTdmR/DSFQgF4P6NvygGDt0D/mttbex+nD0CGukrdAAeHQLRI2ese7+7r7u3fM+3+fgC6fXLDuUqPqwAAAs5JREFUeJytl0uCozAMRF85HGI2c/9bqmZh2RaGTpPp1iIBg+XSryT09w+2BYABC2wDIsxFbCNp3s9rr5dV3y/Xr3LXJBzmsDU32AnCAoRxqnMqK4dI2CC1/rwAGLsAVBEUZLaw4ACIE9p1oDxAuOwXcnrJJsJIoGp2sbxxL0PjEYZIdxgjr8PkdejZmXW9P5K0bn2NXQ/V2YMR0T2Aq4VDp9dChqS+S419KhebG1LpWtfcYhlLHCtgNxlXzR2PN1/PLDHYUayteL2tm0hDvgrRY6lKv8L+To5nx/h7TRdAXaLcNjFTWln6DwF8fvCdxFaqHcBDy35bel5nEkqLC34bz168Uk/MpoakLQQa0N5UxA+ktZYMaqQDKACaOjWOkvpUKvnc9YpBVJKQGpEFeCyi7cwXrNouar71ydjTDC+DG7g1XnTCsRqWCL+QGhoAdkWyP8qDSTSXKhiW54/aqZn1Z1sODP4fFnlvML4qeJcvF0gbSEkc+yFnMGVOuPNMXUtwAYiW7B3ZdjOgFp182zToGoLM0vM5n2WlPX7uraueeNMLlvU/kdmLRhPdnh/7y4OhABzd+uqAB4xLaFSEMa+sqB4caYX2AmCX7zrdO3G484q+DgU8aMeSzoPGIyw5QwZEOL1YGlG5Plqh3rvS6+sr29/bs6E0hHoC9Pz3nCUHiGO4eZRZ5YHZPkuzQs8DUktUra1cMrSW88BUlm1qTmcnM3XDYg96xugtCaIfevZfBzBnxuWN3cwrCXHrilOVDD5QDrnNNJnwmGX3dpx7giSkiNvTP+GlGuKIAI2874R3VDa3vWK9o3rYoVzHRy33jz8zeCVAokkVJTl/Xid8efvMeosi9UxKHuDO5YjNYXs1G/Gtqf87L/W86slc8+SAzlrdXdNn3etbY1ofrwXQG7z7e7YXz4wPE9G1TqqZp1RN43OKHKs+s36pGZPVSsx/s0Wbii/jHF4AAAAASUVORK5CYII="
+      clip-path="inset(0% round 0px)"
+      x="224"
+      y="148" />
+    <rect
+      style="fill:url(#shadow)"
+      width="64"
+      height="16"
+      x="208"
+      y="172" />
+  </g>
+</svg>

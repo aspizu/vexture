@@ -2,7 +2,7 @@ import argparse
 import shutil
 from pathlib import Path
 
-from .image_splitter import image_splitter
+from image_splitter import image_splitter
 
 argparser = argparse.ArgumentParser(
     prog="vexture",

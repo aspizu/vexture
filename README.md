@@ -11,10 +11,8 @@ pip install pillow
 ## Usage
 
 ```
-python -m vexture ...
+python vexture ...
 ```
-
-The `-m` is important.
 
 ```
 usage: vexture [-h] [--output OUTPUT] --width WIDTH [--height HEIGHT] [--corner-radius CORNER_RADIUS] [--shadow-opacity SHADOW_OPACITY]
